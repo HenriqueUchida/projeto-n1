@@ -1,6 +1,6 @@
 # Projeto N1 - Parte 1 - Tecnicas de Programação.
 ## RPG Explorar Dungeons 🗡️ 🛡️
-    Trabalho proposto pelo professor André Santana, na disciplina de técnicas de programação da Anhembi Morumbi.
+Trabalho proposto pelo professor André Santana, na disciplina de técnicas de programação da Anhembi Morumbi.
 ## Objetivo da Exploração
  Como líder de uma guilda de heróis você deverá guiar os guerreiros por um labirinto.
 ## Regras 📜:
