@@ -3,7 +3,7 @@ print ("Você está na sala 1")
 
 sala = 1
 LIMITE_INTERAÇÕES = 7
-salas = [1,2,3,4,5]
+salasAleatorias = [1,2,3,4,5]
 cont = 1
 
 while(cont <= LIMITE_INTERAÇÕES or sala != 9):
@@ -13,6 +13,6 @@ while(cont <= LIMITE_INTERAÇÕES or sala != 9):
     elif sala != 8 and opcao == 2:
         sala += 2
     else:
-        sala = random.choices(salas)
+        sala = random.choices(salasAleatorias)
     print("Você está na sala", sala)
     cont += 1
