@@ -30,8 +30,8 @@ while(cont <= LIMITE_INTERAÇÕES):
       print("Sala 9 atinginda! Parabens voce venceu!")
       break
     elif sala == 6:
-      print("O caminho vermelho esta bloqueado\nSua unica opção é o caminho preto")
-      print("[x] Caminho Preto\n")
+      print("Na sala 6 o caminho vermelho esta bloqueado\nSua unica opção é o caminho preto")
+      print("[x] Direcionando para o caminho Preto...\n")
       sala = 8
     print("Você está na sala: ", sala)
     cont += 1
