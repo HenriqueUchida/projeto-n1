@@ -16,3 +16,4 @@ while(cont <= LIMITE_INTERAÇÕES or sala != 9):
         sala = random.choices(salasAleatorias)
     print("Você está na sala", sala)
     cont += 1
+    
